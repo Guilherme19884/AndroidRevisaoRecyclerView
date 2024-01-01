@@ -1,4 +1,4 @@
-package com.guiga.myapplication
+package com.guiga.RevisaoRecycleView
 
 import org.junit.Test
 
